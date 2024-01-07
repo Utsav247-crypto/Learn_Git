@@ -1,1 +1,1 @@
-p
+print("First Git Utsav")
